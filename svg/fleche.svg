@@ -34,22 +34,13 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient40965"
-       id="linearGradient40967"
-       x1="65.553322"
-       y1="138.07478"
-       x2="77.315605"
-       y2="138.07478"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient40965"
        id="linearGradient40969"
        x1="46.869049"
        y1="106.87797"
        x2="96.005951"
        y2="106.87797"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,-36.512517)" />
+       gradientTransform="matrix(0.08096005,0,0,0.08096005,-54.76005,236.17691)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient40965"
@@ -58,30 +49,8 @@
        x1="65.553322"
        y1="138.07478"
        x2="77.315605"
-       y2="138.07478" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient40965"
-       id="linearGradient4531"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,-36.512517)"
-       x1="46.869049"
-       y1="106.87797"
-       x2="96.005951"
-       y2="106.87797" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter5025"
-       x="-0.039707977"
-       width="1.079416"
-       y="-0.0079156952"
-       height="1.0158314">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.81296959"
-         id="feGaussianBlur5027" />
-    </filter>
+       y2="138.07478"
+       gradientTransform="matrix(-0.08096005,0,0,0.08096005,54.787528,241.47656)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -91,7 +60,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="9.6289005"
-     inkscape:cx="0.041035545"
+     inkscape:cx="-26.649447"
      inkscape:cy="37.077139"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -115,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -125,38 +94,20 @@
      id="layer1"
      transform="translate(-46.744226,-242.78133)">
     <g
-       id="g40973-4"
-       transform="matrix(-0.0809897,0,0,0.08018562,55.053782,241.65656)"
-       style="opacity:0.55;stroke:#000000;stroke-opacity:1;filter:url(#filter5025)">
-      <path
-         sodipodi:nodetypes="zczczcz"
-         inkscape:connector-curvature="0"
-         id="rect40938-4"
-         d="m 66.523811,61.898808 c 2.183595,-40.613356 4.929222,-45.707554 4.929222,-45.707554 0,0 2.728237,5.094019 4.898159,45.707554 2.169922,40.613532 0,198.059512 0,198.059512 0,0 -2.95999,2.70814 -4.832296,2.72129 -1.872306,0.0131 -4.995085,-2.72129 -4.995085,-2.72129 0,0 -2.183595,-157.44616 0,-198.059512 z"
-         style="opacity:1;fill:url(#linearGradient40967);fill-opacity:1;stroke:#000000;stroke-width:0.14999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <circle
-         r="24.568451"
-         cy="70.36544"
-         cx="71.4375"
-         id="path40942-9"
-         style="opacity:1;fill:url(#linearGradient4531);fill-opacity:1;stroke:#000000;stroke-width:0.14999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <g
-       id="g40973"
-       transform="matrix(-0.08096005,0,0,0.08096005,54.787528,241.47656)"
-       style="stroke:#000000;stroke-opacity:1">
+       id="g4501">
       <path
          sodipodi:nodetypes="zczczcz"
          inkscape:connector-curvature="0"
          id="rect40938"
-         d="m 66.523811,61.898808 c 2.183595,-40.613356 4.929222,-45.707554 4.929222,-45.707554 0,0 2.728237,5.094019 4.898159,45.707554 2.169922,40.613532 0,198.059512 0,198.059512 0,0 -2.95999,2.70814 -4.832296,2.72129 -1.872306,0.0131 -4.995085,-2.72129 -4.995085,-2.72129 0,0 -2.183595,-157.44616 0,-198.059512 z"
-         style="opacity:1;fill:url(#linearGradient40975);fill-opacity:1;stroke:#000000;stroke-width:0.14999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         d="m 49.401757,246.48789 c -0.176784,-3.28806 -0.39907,-3.70049 -0.39907,-3.70049 0,0 -0.220878,0.41242 -0.396555,3.70049 -0.175677,3.28807 0,16.03491 0,16.03491 0,0 0.239641,0.21925 0.391223,0.22031 0.151582,10e-4 0.404402,-0.22031 0.404402,-0.22031 0,0 0.176784,-12.74685 0,-16.03491 z"
+         style="opacity:1;fill:url(#linearGradient40975);fill-opacity:1;stroke:#000000;stroke-width:0.01214401;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <circle
-         r="24.568451"
-         cy="70.36544"
-         cx="71.4375"
+         transform="scale(-1,1)"
+         r="1.989063"
+         cy="244.82982"
+         cx="-48.976467"
          id="path40942"
-         style="opacity:1;fill:url(#linearGradient40969);fill-opacity:1;stroke:#000000;stroke-width:0.14999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:url(#linearGradient40969);fill-opacity:1;stroke:#000000;stroke-width:0.01214401;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
   </g>
 </svg>

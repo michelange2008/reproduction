@@ -12,7 +12,7 @@
 <body>
   <div class="container">
     <div id="barre-titre">
-      <h1>le cycle ovarien de la vache<span class="detail"> (après vélage et sans fécondation)</span></h1>
+      <h1>Le cycle ovarien de la vache<span class="detail"> (après vélage et sans fécondation)</span></h1>
       <div class="logos">
         <div class="cc"></div>
         <div class="antikor"></div>
@@ -20,9 +20,9 @@
     </div>
 
     <nav id="menu">
-      <button id="depart" class="control"><div class="depart"></div> </button>
-      <button id="pause" class="control"><div class="pause"></div></button>
-      <button id="play" class="control"><div class="play"></div></button>
+      <button id="depart" class="control" title="Retour à J0"><div class="depart"></div> </button>
+      <button id="pause" class="control" title="Mettre en pause l'animation"><div class="pause"></div></button>
+      <button id="play" class="control" title="Démarrer l'animation"><div class="play"></div></button>
       <div id="timeline">
         <div id="ligne">
           <?php for ($i=0; $i < 40 ; $i++) {
@@ -38,19 +38,19 @@
           <div id="jours" class="compteur-chiffres">
             <p style="margin:0">0</p>
           </div>
-          <p class="moniteur-texte">Nombre de jours</p>
+          <p class="moniteur-texte">nombre de jours</p>
         </div>
         <div class="moniteur-item">
-          <div class="bouton bouton-rond">
+          <div class="bouton bouton-rond" title="Tournez le bouton pour faire avancer ou reculer l'animation">
             <div id="position" class="roller"></div>
           </div>
           <p class="moniteur-texte">progression</p>
         </div>
         <div class="moniteur-item">
-          <div class="bouton bouton-demi">
+          <!-- <div class="bouton bouton-demi" title="Déplacez l'aiguille pour accélérer ou ralentir l'animation"> -->
             <div id="speed" class="aiguille"></div>
             <div class="base-aiguille"></div>
-          </div>
+          <!-- </div> -->
           <p class="moniteur-texte">vitesse</p>
         </div>
 
